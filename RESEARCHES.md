@@ -20,4 +20,12 @@ https://www.google.com/search?q=apt-get+update+centos&oq=apt-get+update+centos&a
 
 https://www.digitalocean.com/community/tutorials/package-management-basics-apt-yum-dnf-pkg
 
+## modifier le fichier de configuration du service centos
+
+https://www.google.com/search?q=modifier+le+fichier+de+configuration+du+service+centos&oq=modifier+le+fichier+de+configuration+du+service+centos&aqs=chrome..69i57j33l2.4351j0j7&sourceid=chrome&ie=UTF-8
+
+https://access.redhat.com/documentation/fr-fr/red_hat_enterprise_linux/7/html/system_administrators_guide/sect-managing_services_with_systemd-unit_files
+
+https://riptutorial.com/fr/centos/example/25121/installation-ou-configuration
+
 
