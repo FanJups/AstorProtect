@@ -6,4 +6,12 @@ https://www.putty.org/
 
 https://www.pcastuces.com/pratique/astuces/5235.htm
 
+## débuter vps
+
+https://docs.ovh.com/fr/vps/debuter-avec-vps/
+
+## sécuriser vps
+
+https://docs.ovh.com/fr/vps/conseils-securisation-vps/
+
 
