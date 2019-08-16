@@ -11,3 +11,7 @@ vim /etc/ssh/sshd_config
 ## test si  port 22 ouvert 
 
 netstat -aptn | grep 22
+
+## restart 
+
+systemctl reboot
