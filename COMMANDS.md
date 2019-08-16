@@ -7,3 +7,7 @@ sudo yum update
 yum install nano vim
 
 vim /etc/ssh/sshd_config
+
+## test si  port 22 ouvert 
+
+netstat -aptn | grep 22
