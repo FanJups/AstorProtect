@@ -107,8 +107,10 @@ https://www.pcastuces.com/pratique/astuces/4519.htm
 
 https://www.supinfo.com/articles/single/4089-comment-utiliser-telnet-windows-10
 
-## restart 
+## restart centos 7
 
-systemctl reboot
+https://www.google.com/search?q=restart+centos+7&oq=restart+centos+7&aqs=chrome..69i57j0l3j69i60l2.9216j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.osetc.com/en/centos-7-rhel7-shut-down-restart-suspend-hibernate-the-system.html
 
 
