@@ -107,4 +107,8 @@ https://www.pcastuces.com/pratique/astuces/4519.htm
 
 https://www.supinfo.com/articles/single/4089-comment-utiliser-telnet-windows-10
 
+## restart 
+
+systemctl reboot
+
 
