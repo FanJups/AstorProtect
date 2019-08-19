@@ -113,4 +113,22 @@ https://www.google.com/search?q=restart+centos+7&oq=restart+centos+7&aqs=chrome.
 
 https://www.osetc.com/en/centos-7-rhel7-shut-down-restart-suspend-hibernate-the-system.html
 
+## how to configure a centos server for a java web application with docker
+
+https://www.google.com/search?q=how+to+configure+a+centos+server+for+a+java+web+application+with+docker&oq=how+to+configure+a+centos+server+for+a+java+web+application+with+docker&aqs=chrome..69i57.34220j0j7&sourceid=chrome&ie=UTF-8
+
+## changing centos port ssh failed
+
+https://www.google.com/search?q=changing+centos+port+ssh+failed&oq=changing+centos+port+ssh+failed&aqs=chrome..69i57.26521j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.liberiangeek.net/2014/11/change-openssh-port-centos-7/
+
+https://serverfault.com/questions/834195/ssh-fails-after-port-change-on-centos-7
+
+## other ports than 22 torun ssh centos 7
+
+https://www.google.com/search?q=other+ports+than+22+torun+ssh+centos+7&oq=other+ports+than+22+torun+ssh+centos+7&aqs=chrome..69i57.14761j0j7&sourceid=chrome&ie=UTF-8
+
+https://kifarunix.com/how-to-configure-ssh-to-use-a-different-port-on-centos-7/
+
 
