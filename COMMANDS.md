@@ -19,3 +19,7 @@ systemctl reboot
 ## backup the current SSH configuration on your system.
 
 sudo cp /etc/ssh/sshd_config /etc/ssh/sshd_config.bak
+
+## tell the SElinux about change port
+
+semanage port -a -t ssh_port_t -p tcp PORTNUMBER
