@@ -131,4 +131,10 @@ https://www.google.com/search?q=other+ports+than+22+torun+ssh+centos+7&oq=other+
 
 https://kifarunix.com/how-to-configure-ssh-to-use-a-different-port-on-centos-7/
 
+## change root password centos 7
+
+https://www.google.com/search?q=change+root+password+centos+7&oq=change+root+password+centos+7&aqs=chrome..69i57.12295j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.cyberciti.biz/faq/how-to-change-root-password-on-centos-linux/
+
 
