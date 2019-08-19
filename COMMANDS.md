@@ -29,3 +29,7 @@ semanage port -a -t ssh_port_t -p tcp PORTNUMBER
 firewall-cmd --add-port=PORTNUMBER/tcp --permanent
 
 firewall-cmd --reload
+
+## verify that SELinux has allowed sshd to listen on the two ports
+
+semanage port -l | grep ssh
