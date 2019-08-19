@@ -15,3 +15,7 @@ netstat -aptn | grep 22
 ## restart 
 
 systemctl reboot
+
+## backup the current SSH configuration on your system.
+
+sudo cp /etc/ssh/sshd_config /etc/ssh/sshd_config.bak
