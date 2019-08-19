@@ -23,3 +23,9 @@ sudo cp /etc/ssh/sshd_config /etc/ssh/sshd_config.bak
 ## tell the SElinux about change port
 
 semanage port -a -t ssh_port_t -p tcp PORTNUMBER
+
+## firewall 
+
+firewall-cmd --add-port=PORTNUMBER/tcp --permanent
+
+firewall-cmd --reload
