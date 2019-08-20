@@ -149,4 +149,6 @@ https://www.google.com/search?q=desactivate+root+login+centos+7&oq=desactivate+r
 
 https://www.liberiangeek.net/2014/08/disable-root-ssh-logon-on-centos-7/
 
+https://www.a2hosting.com/kb/getting-started-guide/accessing-your-account/disabling-ssh-logins-for-root
+
 
