@@ -151,4 +151,12 @@ https://www.liberiangeek.net/2014/08/disable-root-ssh-logon-on-centos-7/
 
 https://www.a2hosting.com/kb/getting-started-guide/accessing-your-account/disabling-ssh-logins-for-root
 
+## install fail2ban centos 7
+
+https://www.google.com/search?q=install+fail2ban+centos+7&oq=install+fail2ban+centos+7&aqs=chrome..69i57j0l5.10074j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.evoluso.com/how-to-install-fail2ban-on-centos-7/
+
+
+
 
