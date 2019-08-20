@@ -137,4 +137,10 @@ https://www.google.com/search?q=change+root+password+centos+7&oq=change+root+pas
 
 https://www.cyberciti.biz/faq/how-to-change-root-password-on-centos-linux/
 
+## create user centos 7
+
+https://www.google.com/search?q=create+user+centos+7&oq=create+user+centos+7&aqs=chrome..69i57j0l5.13104j0j7&sourceid=chrome&ie=UTF-8
+
+https://manage.accuwebhosting.com/knowledgebase/2959/How-to-create-users-and-groups-in-CentOS7.html
+
 
