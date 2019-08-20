@@ -33,3 +33,7 @@ firewall-cmd --reload
 ## verify that SELinux has allowed sshd to listen on the two ports
 
 semanage port -l | grep ssh
+
+## change password root
+
+passwd root
