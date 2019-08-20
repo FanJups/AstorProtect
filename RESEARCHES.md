@@ -143,4 +143,10 @@ https://www.google.com/search?q=create+user+centos+7&oq=create+user+centos+7&aqs
 
 https://manage.accuwebhosting.com/knowledgebase/2959/How-to-create-users-and-groups-in-CentOS7.html
 
+## desactivate root login centos 7
+
+https://www.google.com/search?q=desactivate+root+login+centos+7&oq=desactivate+root+login+centos+7&aqs=chrome..69i57j0l4.12219j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.liberiangeek.net/2014/08/disable-root-ssh-logon-on-centos-7/
+
 
