@@ -37,3 +37,7 @@ semanage port -l | grep ssh
 ## change password root
 
 passwd root
+
+## create user username
+
+adduser username
