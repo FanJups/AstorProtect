@@ -163,6 +163,10 @@ https://www.fail2ban.org/wiki/index.php/Main_Page
 
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-centos-7
 
+## how-to-create-a-sudo-user-on-centos-quickstart
+
+https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-centos-quickstart
+
 
 
 
