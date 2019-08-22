@@ -41,3 +41,7 @@ passwd root
 ## create user username
 
 adduser username
+
+## create sudo user username
+
+usermod -aG wheel username
