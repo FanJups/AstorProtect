@@ -167,6 +167,19 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-o
 
 https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-centos-quickstart
 
+## useful links
+
+http://www.dev-garden.org/2014/12/27/setting-up-a-docker-container-with-centos6-and-tomcat7/
+
+https://stackify.com/guide-docker-java/
+
+https://aspetraining.com/resources/blog/deploying-your-first-web-app-to-tomcat-on-docker
+
+https://medium.com/swlh/deploying-spring-boot-applications-15e14db25ff0
+
+https://dzone.com/articles/running-spring-boot-in-a-docker-container
+
+http://www.tutorialspoint.com/docker/index.htm
 
 
 
