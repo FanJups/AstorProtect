@@ -187,5 +187,23 @@ https://www.google.com/search?q=how+to+install+java+o+centos+7&oq=how+to+install
 
 https://www.digitalocean.com/community/tutorials/how-to-install-java-on-centos-and-fedora
 
+## how to manage a spring boot projetc using docker travis and github
+
+https://www.google.com/search?q=how+to+manage+a+spring+boot+projetc+using+docker+travis+and+github&oq=how+to+manage+a+spring+boot+projetc+using+docker+travis+and+github+&aqs=chrome..69i57.20105j0j7&sourceid=chrome&ie=UTF-8
+
+https://sivalabs.in/2018/01/ci-cd-springboot-applications-using-travis-ci/
+
+https://github.com/nitesh009/spring-boot-app
+
+https://medium.com/@daiyanze/your-next-dockerized-spring-boot-application-with-travis-and-heroku-83800b3a3ad8
+
+https://jojozhuang.github.io/tutorial/restful/continuously-deploy-spring-boot-app-to-heroku-with-travis-ci/
+
+https://dzone.com/articles/travis-ci-tutorial-java-projects
+
+https://medium.com/@felippepuhle/getting-started-with-spring-boot-travis-and-heroku-4562a723fd0e
+
+https://docs.travis-ci.com/user/docker/
+
 
 
