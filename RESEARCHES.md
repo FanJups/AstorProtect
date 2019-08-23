@@ -181,5 +181,11 @@ https://dzone.com/articles/running-spring-boot-in-a-docker-container
 
 http://www.tutorialspoint.com/docker/index.htm
 
+## how to install java o centos 7
+
+https://www.google.com/search?q=how+to+install+java+o+centos+7&oq=how+to+install+java+o+centos+7&aqs=chrome..69i57j0l5.14370j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.digitalocean.com/community/tutorials/how-to-install-java-on-centos-and-fedora
+
 
 
