@@ -205,5 +205,23 @@ https://medium.com/@felippepuhle/getting-started-with-spring-boot-travis-and-her
 
 https://docs.travis-ci.com/user/docker/
 
+## how to deploy a Java web app in OVH VPS CENTOS 7
+
+https://www.google.com/search?ei=pOpiXa31POHZxgO0p6eoDA&q=how+to+deploy+a+Java+web+app+in+OVH+VPS+CENTOS+7&oq=how+to+deploy+a+Java+web+app+in+OVH+VPS+CENTOS+7&gs_l=psy-ab.3..33i160l5.32314.34653..34867...0.2..0.756.3969.2-1j0j4j2j1......0....1..gws-wiz.......0i71j35i302i39j33i21.79CvOwpjNTU&ved=0ahUKEwit15DH6Z7kAhXhrHEKHbTTCcUQ4dUDCAo&uact=5
+
+https://www.developpez.net/forums/d1819854/java/plateformes-java-ee-jakarta-ee-spring-serveurs/java-ee/mise-place-d-application-java-ee-vps/
+
+https://docs.ovh.com/fr/dedicated/premiers-pas-serveur-dedie/
+
+https://www.theguild.nl/deploy-a-spring-boot-app-on-your-own-server-in-less-than-15-minutes/
+
+https://documentation.cpanel.net/display/CKB/How+to+Deploy+Java+Applications
+
+https://www.youtube.com/watch?v=KMUh0oBuelw
+
+https://www.youtube.com/watch?v=uT02OBUKOfg
+
+https://www.youtube.com/watch?v=c8PNJfDjFQg
+
 
 
