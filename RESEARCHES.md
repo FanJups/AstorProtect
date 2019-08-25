@@ -223,5 +223,13 @@ https://www.youtube.com/watch?v=uT02OBUKOfg
 
 https://www.youtube.com/watch?v=c8PNJfDjFQg
 
+## how to deploy a Java web app in OVH VPS CENTOS 7 using github  docker
+
+https://www.google.com/search?ei=eu5iXefzHMvXkwXFrpKgAw&q=how+to+deploy+a+Java+web+app+in+OVH+VPS+CENTOS+7+using+github+travis+docker&oq=how+to+deploy+a+Java+web+app+in+OVH+VPS+CENTOS+7+using+github+travis+docker&gs_l=psy-ab.3..35i302i39.9585.13293..13653...0.2..0.378.378.3-1......0....1..gws-wiz.......0i71.DMdO6UbK3so&ved=0ahUKEwjnmJGb7Z7kAhXL66QKHUWXBDQQ4dUDCAo&uact=5
+
+https://github.com/ramitsurana/awesome-kubernetes
+
+https://jnh.bz/
+
 
 
