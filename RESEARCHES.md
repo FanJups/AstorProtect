@@ -239,6 +239,16 @@ https://medium.com/simplon-saint-gaudens/chris-explique-configurer-son-propre-vp
 
 https://community.ovh.com/t/appli-nodejs-sur-vps/12270/4
 
+## ovh vps java
+
+https://www.google.com/search?ei=rjhlXbnnK7XIxgOP44_IBw&q=ovh+vps+java&oq=+java+ovh+vps&gs_l=psy-ab.1.0.0i8i30.2280041.2285852..2289022...0.5..2.1198.6761.2-2j1j1j1j3j2......0....1..gws-wiz.......0i71j0i67j0i7i30j0i20i263j0i203j0j0i8i7i30.bj1b_-D-FJg
+
+## how to deploy a spring boot / java web app on your vps ovh
+
+https://www.google.com/search?q=how+to+deploy+a+spring+boot+%2F+java+web+app+on+your+vps+ovh&oq=how+to+deploy+a+spring+boot+%2F+java+web+app+on+your+vps+ovh&aqs=chrome..69i57.8888j0j7&sourceid=chrome&ie=UTF-8
+
+https://openclassrooms.com/forum/sujet/deployer-une-application-java-sous-ovh
+
 
 
 
