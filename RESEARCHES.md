@@ -231,5 +231,15 @@ https://github.com/ramitsurana/awesome-kubernetes
 
 https://jnh.bz/
 
+## deploy an app on ovh vps
+
+https://www.google.com/search?q=deploy+an+app+on+ovh+vps&oq=deploy+an+app+on+ovh+vps&aqs=chrome..69i57.21791j0j7&sourceid=chrome&ie=UTF-8
+
+https://medium.com/simplon-saint-gaudens/chris-explique-configurer-son-propre-vps-pour-des-applications-node-js-bf3807d005c3
+
+https://community.ovh.com/t/appli-nodejs-sur-vps/12270/4
+
+
+
 
 
