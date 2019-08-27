@@ -271,6 +271,12 @@ https://github.com/FanJups/building-info-spring
 
 https://github.com/FanJups/manago-project-management
 
+## red X maven configuration problem unknown spring tool suite
+
+https://www.google.com/search?q=red+X+maven+configuration+problem+unknown+spring+tool+suite&oq=red+X+maven+configuration+problem+unknown+spring+tool+suite&aqs=chrome..69i57j69i64l2.27949j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/56212981/eclipse-showing-maven-configuration-problem-unknown
+
 
 
 
