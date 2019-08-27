@@ -263,6 +263,10 @@ https://www.linux.com/tutorials/how-automate-web-application-testing-docker-and-
 
 https://github.com/features/actions
 
+## spring boot docker mysql travis
+
+https://github.com/FanJups/building-info-spring
+
 
 
 
