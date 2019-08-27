@@ -267,6 +267,9 @@ https://github.com/features/actions
 
 https://github.com/FanJups/building-info-spring
 
+## docker spring angular
+
+https://github.com/FanJups/manago-project-management
 
 
 
