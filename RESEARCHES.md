@@ -249,6 +249,22 @@ https://www.google.com/search?q=how+to+deploy+a+spring+boot+%2F+java+web+app+on+
 
 https://openclassrooms.com/forum/sujet/deployer-une-application-java-sous-ovh
 
+## github CI CD docker travis tutorial
+
+https://www.google.com/search?q=github+CI+CD+docker+travis+tutorial&oq=github+CI+CD+docker+travis+tutorial&aqs=chrome..69i57j69i64.24479j0j7&sourceid=chrome&ie=UTF-8
+
+https://docs.travis-ci.com/user/docker/
+
+https://medium.com/mobileforgood/patterns-for-continuous-integration-with-docker-on-travis-ci-71857fff14c5
+
+https://gist.github.com/fulldecent/d84cd1abdcc6930865d1b862c4aed917
+
+https://www.linux.com/tutorials/how-automate-web-application-testing-docker-and-travis/
+
+https://github.com/features/actions
+
+
+
 
 
 
