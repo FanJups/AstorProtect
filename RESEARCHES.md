@@ -309,6 +309,26 @@ https://docs.docker.com/docker-hub/builds/
 
 https://docs.docker.com/docker-hub/builds/automated-testing/#enable-automated-tests-on-a-repository
 
+## postgre vs mysql
+
+https://blog.panoply.io/postgresql-vs.-mysql
+
+## postgresql docker
+
+https://www.google.com/search?q=postgresql+docker&oq=postgresql+docker&aqs=chrome..69i57j69i59.4717j0j7&sourceid=chrome&ie=UTF-8
+
+https://hackernoon.com/dont-install-postgres-docker-pull-postgres-bee20e200198
+
+https://severalnines.com/database-blog/how-deploy-postgresql-docker-container-using-clustercontrol
+
+## install postgres centos 7
+
+https://www.google.com/search?q=install+postgres+centos+7&oq=install+postgres+centos+7&aqs=chrome..69i57.7624j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.linode.com/docs/databases/postgresql/how-to-install-postgresql-relational-databases-on-centos-7/
+
+
+
 
 
 
