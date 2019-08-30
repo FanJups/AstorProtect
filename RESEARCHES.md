@@ -303,6 +303,12 @@ https://www.google.com/search?q=how+to+link+organization+gihub+account+to+docker
 
 https://forums.docker.com/t/cant-access-new-github-organization-for-automated-builds/1080/2
 
+## docker build autotest
+
+https://docs.docker.com/docker-hub/builds/
+
+https://docs.docker.com/docker-hub/builds/automated-testing/#enable-automated-tests-on-a-repository
+
 
 
 
