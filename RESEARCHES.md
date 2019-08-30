@@ -289,6 +289,20 @@ https://www.google.com/search?q=wget+centos+7&oq=wget+centos+7&aqs=chrome..69i57
 
 https://www.cyberciti.biz/faq/yum-install-wget-redhat-cetos-rhel-7/
 
+## how to dockerize a spring boot app
+
+https://www.google.com/search?q=how+to+dockerize+a+spring+boot+app&oq=How+to+dockerise+a+spring+boot&aqs=chrome.2.69i57j0l3.13753j0j7&sourceid=chrome&ie=UTF-8
+
+https://spring.io/guides/gs/spring-boot-docker/
+
+https://www.baeldung.com/dockerizing-spring-boot-application
+
+## how to link organization gihub account to dockerhub ?
+
+https://www.google.com/search?q=how+to+link+organization+gihub+account+to+dockerhub+%3F&oq=how+to+link+organization+gihub+account+to+dockerhub+%3F&aqs=chrome..69i57j33.23736j0j7&sourceid=chrome&ie=UTF-8
+
+https://forums.docker.com/t/cant-access-new-github-organization-for-automated-builds/1080/2
+
 
 
 
