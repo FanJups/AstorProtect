@@ -277,6 +277,20 @@ https://www.google.com/search?q=red+X+maven+configuration+problem+unknown+spring
 
 https://stackoverflow.com/questions/56212981/eclipse-showing-maven-configuration-problem-unknown
 
+## copy paste linux
+
+https://www.google.com/search?q=copy+paste+linux&oq=copy+paste+linux&aqs=chrome..69i57j0l5.9764j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.howtogeek.com/203741/how-to-copy-and-paste-text-into-the-linux-terminal/
+
+## wget centos 7
+
+https://www.google.com/search?q=wget+centos+7&oq=wget+centos+7&aqs=chrome..69i57j0l5.10223j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.cyberciti.biz/faq/yum-install-wget-redhat-cetos-rhel-7/
+
+
+
 
 
 
