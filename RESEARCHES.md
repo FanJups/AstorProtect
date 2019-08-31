@@ -335,6 +335,12 @@ https://docs.codecov.io/docs/testing-with-docker
 
 https://dzone.com/articles/when-to-ignore-your-code-coverage
 
+## codecov.yml
+
+https://www.google.com/search?q=codecov.yml&oq=codecov.yml&aqs=chrome..69i57j69i60l5.5672j0j4&sourceid=chrome&ie=UTF-8
+
+https://docs.codecov.io/docs/codecov-yaml
+
 
 
 
