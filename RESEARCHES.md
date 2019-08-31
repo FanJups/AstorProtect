@@ -327,6 +327,10 @@ https://www.google.com/search?q=install+postgres+centos+7&oq=install+postgres+ce
 
 https://www.linode.com/docs/databases/postgresql/how-to-install-postgresql-relational-databases-on-centos-7/
 
+## docker code coverage
+
+https://docs.codecov.io/docs/testing-with-docker
+
 
 
 
