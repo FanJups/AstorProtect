@@ -331,6 +331,10 @@ https://www.linode.com/docs/databases/postgresql/how-to-install-postgresql-relat
 
 https://docs.codecov.io/docs/testing-with-docker
 
+## when-to-ignore-your-code-coverage
+
+https://dzone.com/articles/when-to-ignore-your-code-coverage
+
 
 
 
