@@ -341,6 +341,22 @@ https://www.google.com/search?q=codecov.yml&oq=codecov.yml&aqs=chrome..69i57j69i
 
 https://docs.codecov.io/docs/codecov-yaml
 
+## why spring boot security default login
+
+https://www.google.cm/search?q=why+spring+boot+security+default+login&oq=why+spring+boot+security+default+&aqs=chrome.4.69i57j33l5.26776j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/37285016/what-is-username-and-password-when-starting-spring-boot-with-tomcat
+
+https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-security.html
+
+## disable spring boot security login page
+
+https://www.google.cm/search?ei=VwtsXeW3A7LixgPkoZR4&q=disable+spring+boot+security+login+page&oq=disable+spring+boot+security+login+page&gs_l=psy-ab.3..0i5i30j0i8i30l4.2956.4167..5181...0.2..0.939.2490.3-2j2j0j1......0....1..gws-wiz.......0i71.QFeNC251P7c&ved=0ahUKEwilv6SAnrDkAhUysXEKHeQQBQ8Q4dUDCAo&uact=5
+
+https://stackoverflow.com/questions/23636368/how-to-disable-spring-security-login-screen
+
+https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/#boot-features-security
+
 
 
 
