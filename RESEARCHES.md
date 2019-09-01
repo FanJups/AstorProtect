@@ -357,6 +357,14 @@ https://stackoverflow.com/questions/23636368/how-to-disable-spring-security-logi
 
 https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/#boot-features-security
 
+## dockerfile-maven-plugin configuration
+
+https://www.google.cm/search?q=dockerfile-maven-plugin+configuration&oq=dockerfile-maven-plugin&aqs=chrome.3.69i57j0l5.3951j0j7&sourceid=chrome&ie=UTF-8
+
+https://github.com/spotify/dockerfile-maven
+
+
+
 
 
 
