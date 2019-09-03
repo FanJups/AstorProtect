@@ -363,6 +363,16 @@ https://www.google.cm/search?q=dockerfile-maven-plugin+configuration&oq=dockerfi
 
 https://github.com/spotify/dockerfile-maven
 
+## how to encrypt with travis using windows command
+
+https://www.google.com/search?q=how+to+encrypt+with+travis+using+windows+command&oq=how+to+encrypt+with+travis+using+windows+command&aqs=chrome..69i57j33l3.26650j0j7&sourceid=chrome&ie=UTF-8
+
+http://diegogiacomelli.com.br/using-sensitive-data-on-your-travis-ci-build/
+
+https://rubyinstaller.org/downloads/
+
+https://docs.travis-ci.com/user/encryption-keys/
+
 
 
 
