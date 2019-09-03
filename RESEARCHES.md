@@ -373,6 +373,14 @@ https://rubyinstaller.org/downloads/
 
 https://docs.travis-ci.com/user/encryption-keys/
 
+## how to add user credentials docker using maven plugin spotify
+
+https://www.google.com/search?q=how+to+add+user+credentials+docker+using+maven+plugin+spotify&oq=how+to+add+user+credentials+docker+using+maven+plugin+spotify&aqs=chrome..69i57.24709j0j7&sourceid=chrome&ie=UTF-8
+
+https://github.com/spotify/dockerfile-maven/blob/master/docs/authentication.md
+
+https://github.com/spotify/docker-maven-plugin
+
 
 
 
