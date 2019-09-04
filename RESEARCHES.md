@@ -381,6 +381,46 @@ https://github.com/spotify/dockerfile-maven/blob/master/docs/authentication.md
 
 https://github.com/spotify/docker-maven-plugin
 
+## Could not push image: denied: requested access to the resource is denied
+
+https://www.google.com/search?q=Could+not+push+image%3A+denied%3A+requested+access+to+the+resource+is+denied&oq=Could+not+push+image%3A+denied%3A+requested+access+to+the+resource+is+denied&aqs=chrome..69i57.1764j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/41984399/denied-requested-access-to-the-resource-is-denied-docker
+
+## how to login to docker using travis github
+
+https://www.google.com/search?q=how+to+login+to+docker+using+travis+github&oq=how+to+login+to+docker+using+travis+github&aqs=chrome..69i57j0l5.27232j0j7&sourceid=chrome&ie=UTF-8
+
+https://docs.travis-ci.com/user/docker/
+
+https://github.com/travis-ci/docker-sinatra/blob/master/.travis.yml
+
+https://docs.travis-ci.com/user/environment-variables#encrypting-environment-variables
+
+## how to access a github repository using travis cli
+
+https://www.google.com/search?q=how+to+access+a+github+repository+using+travis+cli&oq=how+to+access+a+github+repository+using+travis+cli&aqs=chrome..69i57j33l3.18470j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/21053657/how-to-run-travis-ci-locally
+
+https://help.github.com/en/enterprise/2.17/admin/developer-workflow/continuous-integration-using-travis-ci
+
+https://medium.com/@preslavrachev/using-travis-for-secure-building-and-deployment-to-github-5a97afcac113
+
+## travis echo environment variable
+
+https://www.google.com/search?q=travis+echo+environment+variable&oq=echo+travis&aqs=chrome.3.69i57j0l4.8898j0j7&sourceid=chrome&ie=UTF-8
+
+https://github.com/travis-ci/travis-ci/issues/939
+
+## denied requested access to the resource is denied docker
+
+https://www.google.com/search?q=denied+requested+access+to+the+resource+is+denied+docker&oq=denied&aqs=chrome.1.69i57j0l3j69i60j69i61.11820j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/41984399/denied-requested-access-to-the-resource-is-denied-docker
+
+
+
 
 
 
