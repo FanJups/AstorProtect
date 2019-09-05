@@ -419,6 +419,14 @@ https://www.google.com/search?q=denied+requested+access+to+the+resource+is+denie
 
 https://stackoverflow.com/questions/41984399/denied-requested-access-to-the-resource-is-denied-docker
 
+## how to make a spring boot react app in sts
+
+https://www.google.com/search?q=how+to+make+a+spring+boot+react+app+in+sts&oq=how+to+make+a+spring+boot+react+app+&aqs=chrome.3.69i57j33l4.18710j0j7&sourceid=chrome&ie=UTF-8
+
+https://dzone.com/articles/spring-boot-and-react-happily-ever-after
+
+https://developer.okta.com/blog/2018/07/19/simple-crud-react-and-spring-boot
+
 
 
 
