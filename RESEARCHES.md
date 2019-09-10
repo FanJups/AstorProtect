@@ -435,6 +435,12 @@ https://github.com/spotify/docker-maven-plugin
 
 https://github.com/spotify/dockerfile-maven/issues/87
 
+## COPY failed: stat /var/lib/docker/tmp/docker-builder793815596/target/dependency/BOOT-INF/lib: no such file or directory
+
+https://www.google.com/search?q=COPY+failed%3A+stat+%2Fvar%2Flib%2Fdocker%2Ftmp%2Fdocker-builder793815596%2Ftarget%2Fdependency%2FBOOT-INF%2Flib%3A+no+such+file+or+directory&oq=COPY+failed%3A+stat+%2Fvar%2Flib%2Fdocker%2Ftmp%2Fdocker-builder793815596%2Ftarget%2Fdependency%2FBOOT-INF%2Flib%3A+no+such+file+or+directory&aqs=chrome..69i57.3448j0j7&sourceid=chrome&ie=UTF-8
+
+https://gitlab.com/gitlab-org/gitlab-runner/issues/3703
+
 
 
 
