@@ -427,6 +427,12 @@ https://dzone.com/articles/spring-boot-and-react-happily-ever-after
 
 https://developer.okta.com/blog/2018/07/19/simple-crud-react-and-spring-boot
 
+## how to skip docker in maven
+
+https://www.google.com/search?sxsrf=ACYBGNRY9Bwgsfm3R0Ydlm0gmAKjn9UOAw%3A1568131223328&ei=l8h3XeHUE-GFhbIP5div2Ao&q=how+to+skip+docker+in+maven&oq=how+to+skip+docker+in+maven&gs_l=psy-ab.3..0i7i30l10.11838.16105..16348...1.2..0.1416.4936.2-3j3j1j1j1j1......0....1..gws-wiz.......0i71.ecc2sGb4lgQ&ved=0ahUKEwih_JuE0MbkAhXhQkEAHWXsC6sQ4dUDCAs&uact=5
+
+https://github.com/spotify/docker-maven-plugin
+
 
 
 
