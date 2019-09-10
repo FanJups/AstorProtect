@@ -433,6 +433,10 @@ https://www.google.com/search?sxsrf=ACYBGNRY9Bwgsfm3R0Ydlm0gmAKjn9UOAw%3A1568131
 
 https://github.com/spotify/docker-maven-plugin
 
+https://github.com/spotify/dockerfile-maven/issues/87
+
+
+
 
 
 
