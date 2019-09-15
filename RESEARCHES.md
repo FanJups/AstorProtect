@@ -447,6 +447,34 @@ https://www.google.com/search?q=install+oddo+erp+12+on+centos+7&oq=install+oddo+
 
 https://www.rosehosting.com/blog/install-odoo-12-on-centos-7/
 
+https://linuxize.com/post/install-odoo-12-on-centos-7/
+
+## -bash : scl: command not found centos 7
+
+https://www.google.com/search?q=-bash+%3A+scl%3A+command+not+found+centos+7&oq=-bash+%3A+scl%3A+command+not+found+centos+7&aqs=chrome..69i57.39354j0j7&sourceid=chrome&ie=UTF-8
+
+https://access.redhat.com/discussions/3677111
+
+## install scl on centos 7
+
+https://www.google.com/search?q=install+scl+on+centos+7&oq=install+scl+on+centos+7&aqs=chrome..69i57j0l4j69i60.6977j0j7&sourceid=chrome&ie=UTF-8
+
+http://xmodulo.com/enable-software-collections-centos.html
+
+## unable to open /etc/scl/conf/rh-python35
+
+https://www.google.com/search?sxsrf=ACYBGNRMICqmeMRhtdFbeGstTfAA2aYMxw%3A1568581836085&ei=zKh-Xan5BMbhgAbF2ImoBQ&q=unable+to+open+%2Fetc%2Fscl%2Fconf%2Frh-python35&oq=unable+to+open+%2Fetc%2Fscl%2Fconf%2Frh-python35&gs_l=psy-ab.3..35i39j0i203l2j0i22i30l3.5448.6066..6363...0.0..0.238.238.2-1......0....1..gws-wiz.9wLc3gvtwk8&ved=0ahUKEwipj5DZ3tPkAhXGMMAKHUVsAlUQ4dUDCAs&uact=5
+
+https://access.redhat.com/documentation/en-us/red_hat_software_collections/3/html/packaging_guide/sect-unable_to_open_etc_scl_prefixes_software_collection_name
+
+## centos install rh-python35
+
+https://www.google.com/search?q=centos+install+rh-python35&oq=centos+install+rh-python35&aqs=chrome..69i57j0.20344j0j7&sourceid=chrome&ie=UTF-8
+
+https://tecadmin.net/install-python-3-5-on-centos/
+
+
+
 
 
 
