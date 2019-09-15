@@ -441,6 +441,12 @@ https://www.google.com/search?q=COPY+failed%3A+stat+%2Fvar%2Flib%2Fdocker%2Ftmp%
 
 https://gitlab.com/gitlab-org/gitlab-runner/issues/3703
 
+## install oddo erp 12 on centos 7
+
+https://www.google.com/search?q=install+oddo+erp+12+on+centos+7&oq=install+oddo+erp+12+on+centos+7&aqs=chrome..69i57.16246j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.rosehosting.com/blog/install-odoo-12-on-centos-7/
+
 
 
 
