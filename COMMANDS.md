@@ -45,3 +45,11 @@ adduser username
 ## create sudo user username
 
 usermod -aG wheel username
+
+## useful
+
+sudo pip3.5 install wheel
+
+sudo pip3.5 install --upgrade pip
+
+
