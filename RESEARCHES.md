@@ -481,6 +481,10 @@ https://stackoverflow.com/questions/28923393/bash-usr-bin-yum-usr-bin-python-bad
 
 https://stackoverflow.com/questions/55188181/how-to-install-pip-specifically-for-python3-on-centos-7
 
+https://superuser.com/questions/1137207/cannot-install-python-pip-with-yum
+
+https://stackoverflow.com/questions/50408941/recommended-way-to-install-pip3-on-centos7/50410256
+
 
 
 
