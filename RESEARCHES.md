@@ -473,6 +473,14 @@ https://www.google.com/search?q=centos+install+rh-python35&oq=centos+install+rh-
 
 https://tecadmin.net/install-python-3-5-on-centos/
 
+## /bin/yum /usr/bin/python bad interpreter no such file or directory
+
+https://www.google.com/search?q=%2Fbin%2Fyum+%2Fusr%2Fbin%2Fpython+bad+interpreter+no+such+file+or+directory&oq=%2Fbin%2Fyum+&aqs=chrome.1.69i57j0l4j69i58.30742j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/28923393/bash-usr-bin-yum-usr-bin-python-bad-interpreter-permission-denied
+
+https://stackoverflow.com/questions/55188181/how-to-install-pip-specifically-for-python3-on-centos-7
+
 
 
 
