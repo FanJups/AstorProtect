@@ -485,6 +485,10 @@ https://superuser.com/questions/1137207/cannot-install-python-pip-with-yum
 
 https://stackoverflow.com/questions/50408941/recommended-way-to-install-pip3-on-centos7/50410256
 
+## packages installed centos 7
+
+https://linuxize.com/post/how-to-list-installed-packages-on-centos/
+
 
 
 
