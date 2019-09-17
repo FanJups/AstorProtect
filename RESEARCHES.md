@@ -489,6 +489,10 @@ https://stackoverflow.com/questions/50408941/recommended-way-to-install-pip3-on-
 
 https://linuxize.com/post/how-to-list-installed-packages-on-centos/
 
+## check if a package is installed red hat
+
+https://www.cyberciti.biz/faq/find-out-if-package-is-installed-in-linux/
+
 
 
 
