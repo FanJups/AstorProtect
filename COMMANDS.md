@@ -52,4 +52,12 @@ sudo pip3.5 install wheel
 
 sudo pip3.5 install --upgrade pip
 
+## list installed packages
+
+sudo yum list installed
+
+## check if a package is installed red hat
+
+rpm -qa | grep {package-name}
+
 
