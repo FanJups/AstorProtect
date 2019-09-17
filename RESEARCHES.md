@@ -501,6 +501,12 @@ https://stackoverflow.com/questions/39950254/permissionerror-errno-13-permission
 
 https://virtualenv.pypa.io/en/stable/
 
+## install virtualenv centos 7
+
+https://www.google.com/search?q=install+virtualenv+centos+7&oq=install+virtualenv+centos+7&aqs=chrome..69i57j0l5.19381j0j7&sourceid=chrome&ie=UTF-8
+
+https://blog.teststation.org/centos/python/2016/05/11/installing-python-virtualenv-centos-7/
+
 
 
 
