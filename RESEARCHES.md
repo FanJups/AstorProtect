@@ -493,6 +493,14 @@ https://linuxize.com/post/how-to-list-installed-packages-on-centos/
 
 https://www.cyberciti.biz/faq/find-out-if-package-is-installed-in-linux/
 
+## PermissionError: [Errno 13] Permission denied : '/opt/rh/rh-python35/root/usr/lib/python3.5/site-packages/pytz-2016.7.dist-info
+
+https://www.google.com/search?q=PermissionError%3A+%5BErrno+13%5D+Permission+denied+%3A+%27%2Fopt%2Frh%2Frh-python35%2Froot%2Fusr%2Flib%2Fpython3.5%2Fsite-packages%2Fpytz-2016.7.dist-info&oq=PermissionError%3A+%5BErrno+13%5D+Permission+denied+%3A+%27%2Fopt%2Frh%2Frh-python35%2Froot%2Fusr%2Flib%2Fpython3.5%2Fsite-packages%2Fpytz-2016.7.dist-info&aqs=chrome..69i57j69i58.245403j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/39950254/permissionerror-errno-13-permission-denied-usr-lib-python3-5-site-package
+
+https://virtualenv.pypa.io/en/stable/
+
 
 
 
